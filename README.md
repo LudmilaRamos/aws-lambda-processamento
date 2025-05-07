@@ -27,12 +27,11 @@ Este projeto tem como objetivo automatizar o processamento de arquivos CSV carre
 
 ## Prints de Configuração
 
-![Lambda Function](caminho/para/imagem-lambda.png)
+![Lambda Function](lambda-function.png)
 *Figura 1: Configuração da função Lambda.*
 
-![S3 Bucket](caminho/para/imagem-s3.png)
+![S3 Bucket](s3-bucket.png)
 *Figura 2: Configuração do Bucket S3 com o trigger para Lambda.*
 
-
-![Logs da Função](docs/lambda-logs.png)
+![Logs da Função](lambda-logs.png)
 *Figura 3: Logs da execução da função Lambda.*
